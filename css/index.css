@@ -1,0 +1,209 @@
+
+
+
+
+.customNav{position: absolute;
+  width: 100%;
+  background: "../images/trancparency.png";
+  background-color:transparent !important ;
+  background-color: cover;
+  z-index: 10;
+}
+
+.navbar-nav {
+margin-left: auto;
+margin-right: 10px;
+margin-right: 0 !important;
+}
+
+.navbar-brand img{
+
+
+width: 65px;
+}
+
+.nav-item{
+
+  
+  margin-right: 25px;
+  font-family: "Inter";
+  font-weight: bold;
+
+
+}
+.firstpage {
+  padding-bottom: 200px;
+ 
+  
+  
+  background-color: black;
+  border: 20xp;
+  
+    }
+  
+
+.jumbotron{
+
+background-image: url(../images/project1.png);
+background-position: center;
+background-size: cover;
+height: 1000px;
+display: flex;
+background-repeat: no-repeat;
+align-items: stretch;
+justify-content: center;}
+
+
+.jumbotron2{
+
+  background-image: url(../images/End.png);
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  background-repeat: no-repeat;
+  align-items: stretch;
+  justify-content: center;}
+
+  
+  .jumboCopy2{
+   
+  
+    color: white;
+    text-align: center;
+   
+    
+    }
+
+
+  
+  .jumboCopy{
+  margin-top:55%;
+
+  color: white;
+  text-align: center;
+ 
+  
+  }
+  .MAIN {
+
+    margin: 0;
+    margin-top:0 ;
+    padding:0;
+ 
+    
+    background-color: rgb(25, 25, 25);
+ 
+    
+      }
+
+
+      .Newpage1 {
+   
+        padding: 40PX;
+         
+        border: 1px solid rgb(208,190,177);
+          
+      
+          
+            }
+  .Newpage {
+   
+  padding: 40PX;
+    margin-top: 20PX;
+  border: 1px solid rgb(208,190,177);
+    
+
+    
+      }
+
+
+     .header1{color: rgb(232,137,148);
+      size:48px;
+      font-weight: bold;
+      text-align: center;
+
+
+
+     }
+     .content1{color: rgb(253,241,232);
+      size:32px;
+
+      text-align: left;
+      
+
+
+
+     }
+     
+
+
+    
+    .content2{color: rgb(232,137,148);
+     size:32px;
+
+     text-align: left;
+     
+
+
+
+    }
+
+
+
+ 
+    .content3{color: rgb(232,137,148);
+      size:32px;
+ 
+      text-align: center;
+      
+ 
+ 
+ 
+     }
+
+
+
+
+
+
+     .header2{color: rgb(253,241,232);
+      size:48px;
+      font-weight: bold;
+      text-align: center;
+
+
+
+     }
+
+     
+     .card{
+
+      color: black;
+     }
+     .withimage{
+      max-width: 100%;
+     }
+     .image{
+      max-width: 100%;
+
+
+
+
+
+     }
+
+
+     .sidelogo{
+      height: 48px;
+      width: 48px;
+
+
+
+     }
+  .border{
+
+
+    
+    border: red solid 5px;
+  }
